@@ -8,3 +8,4 @@
 152437|initiation au projet d archi|usr7: international*
 152441|initiation au projet d archi|usr7: discours*
 152459|initiation au projet d archi|usr7: exceptionnel*
+153134|cours de langue|usr7: En espagnol, on regarde des films et on chante des chansons d'amour
