@@ -9,3 +9,4 @@
 150804|initiation au projet d archi|usr6: compétences : nouveaux vocabulaires associé à des marques archuitecturales
 150827|initiation au projet d archi|usr6: amélioration : evité de mettre les élèves en compétition et plutot en coopération
 150852|initiation au projet d archi|usr6: Programme : liste du vocabulaire développé !
+150950|cours de langue|usr6: Amelioration : partir en voyage ! c'est plus efficace pour apprendre une langue
