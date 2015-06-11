@@ -13,7 +13,7 @@ Outils du numérique
 
 Programme:
 Créer un outil permettant de visualiser la singuliaririté d'un territoire. 
-Travail collaborative
+Travail collaboratif
 
 
 
