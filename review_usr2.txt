@@ -1,3 +1,5 @@
 145631|sociologie|usr2: je crois que j'ai fini
 150034|histoire de l archi contemporaine|usr2: tout est forme
 150113|Epistemologie|usr2: print(i++)=hello world
+150203|histoire de la ville bienvenue|usr2: qu'est ce qu'une ville ?
+150407|cours de langue|usr2: pas de possibilite de partir en argentine
