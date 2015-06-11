@@ -52,3 +52,4 @@
 153204|histoire de la ville bienvenue|usr1: On ne peut pas faire de copier coller c'est con.
 153212|cours d informatique|usr1: On ne peut pas faire de copier coller c'est con.
 153224|cours de langue|usr1: On ne peut pas faire de copier coller c'est con.
+153229|initiation au projet d archi|usr1: On ne peut pas faire de copier coller c'est con.
