@@ -37,3 +37,4 @@
 152931|singularite du territoire|usr1: > Il faut faire deviner qui on est avec un indice <
 152937|initiation au projet d archi|usr1: > Il faut faire deviner qui on est avec un indice <
 152942|cours de langue|usr1: > Il faut faire deviner qui on est avec un indice <
+152948|cours d informatique|usr1: > Il faut faire deviner qui on est avec un indice <
