@@ -1,3 +1,5 @@
 150100|cours d informatique|usr7: Améliorations : possibilité de mettre en application directement sur le projet ?
 150450|droit d urbanisme|usr7: démolir*
 151008|histoire de l archi contemporaine|usr7: recette spéciale*
+151747|cours de langue|usr7: Il faut plus de 800 maintenant pour le master !
+151800|cours de langue|usr7: au toeic
