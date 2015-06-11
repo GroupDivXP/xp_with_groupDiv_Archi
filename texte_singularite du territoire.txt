@@ -1,20 +1,19 @@
 Pre-requis:
 UE de projet en Master
-Avoir soif de connaissance
-Ouverture d'esprit
+Avoir soif de connaissance et une ouverture d'esprit.
+S'intéresser au question du numérique et accepter d'oublier l'architecture!
 
 
 
 
 Competences acquises:
-Outils du numérique
+Outils du numérique, connaissance autour de la lexoc
 
 
 
 Programme:
 Créer un outil permettant de visualiser la singuliaririté d'un territoire. 
 Travail collaboratif
-
 
 
 Ameliorations a apporter:
