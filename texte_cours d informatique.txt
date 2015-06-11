@@ -1,5 +1,5 @@
 Pre-requis:
-Aucun pré-requis n'est demandé pour cette UE, seulement être un peu aux faits du fonctionnement d'un ordinateur
+Aucun pré-requis n'est demandé pour cette UE, seulement être un peu aux faits du fonctionnement d'un ordinateur et d'une prise USB (on ne va pas jusqu'à savoir utiliser un réseau, faut pas pousser..)
 
 
 Competences acquises:
