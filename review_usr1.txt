@@ -17,3 +17,7 @@
 151740|cours de langue|usr1: ROFL
 151743|cours de langue|usr1: LOL
 151746|cours de langue|usr1: YOLO
+151944|histoire de la ville bienvenue|usr1: Le Côté Obscur c'est mieux.
+151952|histoire de la ville bienvenue|usr1: Votez PALPATINE
+152000|histoire de la ville bienvenue|usr1: PALPATINE 2017
+152027|droit d urbanisme|usr1: usr8 is everywhere
