@@ -4,3 +4,4 @@
 150424|histoire de la ville bienvenue|usr9: de la mésopotamie, en passant par catal yuyuk ?
 151119|initiation au projet d archi|usr9: Programme : il s'agit d'un éveil à l'architecture. Placé au 1er semestre de licence, il permet aux étudiants qui n'ont encore jusque la jamais vraiment endentu parler d'archi d'acquerir les premieres notions
 151615|cours de langue|usr9: Bulats
+151621|cours de langue|usr9: avec un L
