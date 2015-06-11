@@ -19,3 +19,4 @@
 151900|singularite du territoire|usr6: programme à étoffer !
 152004|initiation au projet d archi|usr6: ya pas d'uniformité entre la description du programme ici et ailleurs, fumiste
 152041|cours de langue|usr6: programme : tourné sur la discussion : interactivité entre étudiant
+152115|cours d informatique|usr6: Arreté autocad c'est de la merde
