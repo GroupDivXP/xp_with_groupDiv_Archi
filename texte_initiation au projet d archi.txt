@@ -11,7 +11,7 @@ ne pas dire "trou" mais "ouverture"
 
 
 Programme:
-DESSINER DES BATIMENTS
+DESSINER DES BATIMENTS répondant à un projet architectural
 
 Ameliorations a apporter:
 parler de batiment
