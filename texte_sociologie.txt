@@ -1,4 +1,5 @@
-Pre-requis: bah être en L1 !
+Pre-requis: 
+> bah être en L1 !
 
 
 
@@ -10,7 +11,7 @@ Competences acquises:
 Programme: 
 
 > Animal spirituel de l'enseignant : 
-	L'écureil ?! amélie en écureil nan ?
+	amélie en écureil nan ?
 
 > Apports théoriques : 
 	> histoire de la sociologie urbaine, historique et développement des concepts (habitat social, appropriation des lieux, conflits et luttes urbaines) 
