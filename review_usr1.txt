@@ -54,3 +54,4 @@
 153224|cours de langue|usr1: On ne peut pas faire de copier coller c'est con.
 153229|initiation au projet d archi|usr1: On ne peut pas faire de copier coller c'est con.
 153236|singularite du territoire|usr1: On ne peut pas faire de copier coller c'est con.
+153242|histoire de l archi contemporaine|usr1: On ne peut pas faire de copier coller c'est con.
