@@ -12,3 +12,4 @@
 150950|cours de langue|usr6: Amelioration : partir en voyage ! c'est plus efficace pour apprendre une langue
 151027|cours d informatique|usr6: Amélioration : ouvrir une section de cours sur le langage de programmation
 151043|cours d informatique|usr6: amélioration : apprendre à utilisé les outils de paramétrage sur grasshoper
+151123|histoire de la ville bienvenue|usr6: Programme : le sujet c'etait pas mal nantes ...
