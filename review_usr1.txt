@@ -18,3 +18,4 @@
 151743|cours de langue|usr1: LOL
 151746|cours de langue|usr1: YOLO
 151944|histoire de la ville bienvenue|usr1: Le Côté Obscur c'est mieux.
+151952|histoire de la ville bienvenue|usr1: Votez PALPATINE
