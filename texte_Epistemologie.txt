@@ -2,8 +2,8 @@ Pre-requis: "Savoir avancer sans but" ou "Avoir un but qu'on sait pertinnement i
 
 
 
-Competences acquises: Varies > Globalement développement d'une pensée critique et construite
-> Apprentissage d'au moins un nouveau logiciel
+Competences acquises: Varies > Globalement développement d'une pensée critique et construite OU Rien
+> Apprentissage d'au moins un nouveau logiciel OU Pas
 
 
 
@@ -19,3 +19,4 @@ Ameliorations a apporter: > Être plus strict sur le suivi du travail
 > Palier l'absence de Jean Lévêque 
 > Rééquilibrer les parties cours théoriques et TD
 > Être plus sérieux sur l'apprentissage de logiciels adaptés aux exercices de TD
+> Pointer aux cours (Taux d'absentéisme de 70% à la moitié du semestre)
