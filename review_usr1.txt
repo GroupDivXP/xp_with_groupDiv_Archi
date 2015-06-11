@@ -3,3 +3,4 @@
 150507|histoire de la ville bienvenue|usr1: C'est pas un chat !
 150513|histoire de la ville bienvenue|usr1: Un peu en fait.
 150518|histoire de la ville bienvenue|usr1: COUCOU.
+150743|droit d urbanisme|usr1: Fautes d'orthographes
