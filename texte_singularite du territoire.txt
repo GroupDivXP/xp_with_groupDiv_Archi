@@ -1,16 +1,19 @@
 Pre-requis:
-Autour des outils du numérique
+UE de projet en Master
+Avoir soif de connaissance
+Ouverture d'esprit
 
 
 
 
 Competences acquises:
+Outils du numérique
 
 
 
 Programme:
 Créer un outil permettant de visualiser la singuliaririté d'un territoire. 
-Travail collaborative
+Travail collaboratif
 
 
 
