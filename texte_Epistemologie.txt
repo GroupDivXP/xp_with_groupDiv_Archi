@@ -1,4 +1,4 @@
-Pre-requis: Aucun
+Pre-requis: "Savoir avancer sans but" ou "Avoir un but qu'on sait pertinnement qu'il ne sera jamais réalisé" (l'UE des rêves brisés)
 
 
 
@@ -7,7 +7,11 @@ Competences acquises: Varies > Globalement développement d'une pensée critique
 
 
 
-Programme: Partie théorique et apport de connaissances à la fois philosophiques et pratiques sur la question de l'épistémologie de l'architecture  
+Programme: Partie théorique et apport de connaissances à la fois philosophiques et pratiques sur la question de l'épistémologie de l'architecture
+TD en 3 parties :
+> Open/Big Data
+> Les acteurs du projet urbain/architectural
+> Le Dictionnaire des idées reçues ou l'analyse des discours des acteurs du projet urbain/architectural  
 
 
 
