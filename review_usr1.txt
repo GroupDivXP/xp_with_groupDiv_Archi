@@ -25,3 +25,4 @@
 152225|histoire de l archi contemporaine|usr1: " Animal spirituel de l'enseignant : "
 152233|sociologie|usr1: " Animal spirituel de l'enseignant : "
 152243|initiation au projet d archi|usr1: " Animal spirituel de l'enseignant : "
+152259|cours de langue|usr1: usr 3 est une fille !
