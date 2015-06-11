@@ -29,3 +29,4 @@
 152310|cours de langue|usr1: Lolz
 152315|cours de langue|usr1: " Animal spirituel de l'enseignant : "
 152323|cours d informatique|usr1: " Animal spirituel de l'enseignant : "
+152328|histoire de la ville bienvenue|usr1: " Animal spirituel de l'enseignant : "
