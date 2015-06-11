@@ -1,5 +1,5 @@
 Pre-requis:
-Aucun pré-requis n'est demandé pour cette UE.
+Aucun pré-requis n'est demandé pour cette UE, seulement être un peu aux faits du fonctionnement d'un ordinateur
 
 
 Competences acquises:
@@ -7,7 +7,9 @@ capacité d'utilisation des logiciels Autocad, Sketchup, suite Adobe, Revit et/o
 
 
 Programme:
-Cours Autocad : à travaers divers exercices de dessin ou de redessins de plans
+Cours Autocad : à travers divers exercices de dessin ou de redessins de plans, sont appris les outils de bases du logiciel
+idem pour les autres, avec plus ou moins de créativité dans la concepion des exercices
 
 
 Ameliorations a apporter:
+???
