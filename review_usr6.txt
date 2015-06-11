@@ -11,3 +11,4 @@
 150852|initiation au projet d archi|usr6: Programme : liste du vocabulaire développé !
 150950|cours de langue|usr6: Amelioration : partir en voyage ! c'est plus efficace pour apprendre une langue
 151027|cours d informatique|usr6: Amélioration : ouvrir une section de cours sur le langage de programmation
+151043|cours d informatique|usr6: amélioration : apprendre à utilisé les outils de paramétrage sur grasshoper
