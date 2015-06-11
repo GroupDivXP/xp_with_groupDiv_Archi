@@ -37,3 +37,4 @@
 153051|histoire de la ville bienvenue|usr8: hé usr2 on dirait que t'as raté ton captcha
 153112|sociologie|usr8: hé usr2 on dirait que t'as raté ton captcha
 153311|sociologie|usr8: je trouve que le point de vue sur les améliorations à apporter sont un peu orientées à mon gout. Sinon ça va et il faudrait plus développer la partie pré requis mais il y a de l'idée!
+153432|Epistemologie|usr8: dans les messages officiels en général y a pas de fautes d'ortaugraffent
