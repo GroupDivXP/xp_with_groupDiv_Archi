@@ -34,3 +34,17 @@
 152504|singularite du territoire|usr1: #weloveamedee
 152744|histoire de l archi contemporaine|usr1: >  Il faut faire deviner qui on est avec un indice  <
 152835|sociologie|usr1: > Il faut faire deviner qui on est avec un indice <
+152931|singularite du territoire|usr1: > Il faut faire deviner qui on est avec un indice <
+152937|initiation au projet d archi|usr1: > Il faut faire deviner qui on est avec un indice <
+152942|cours de langue|usr1: > Il faut faire deviner qui on est avec un indice <
+152948|cours d informatique|usr1: > Il faut faire deviner qui on est avec un indice <
+152952|histoire de la ville bienvenue|usr1: > Il faut faire deviner qui on est avec un indice <
+152959|droit d urbanisme|usr1: > Il faut faire deviner qui on est avec un indice <
+153047|sociologie|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
+153103|histoire de l archi contemporaine|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
+153108|singularite du territoire|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
+153113|initiation au projet d archi|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
+153119|cours de langue|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
+153124|cours d informatique|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
+153129|histoire de la ville bienvenue|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
+153134|droit d urbanisme|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
