@@ -44,3 +44,4 @@
 153103|histoire de l archi contemporaine|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
 153108|singularite du territoire|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
 153113|initiation au projet d archi|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
+153119|cours de langue|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
