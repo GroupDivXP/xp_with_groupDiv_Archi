@@ -23,3 +23,4 @@
 152027|droit d urbanisme|usr1: usr8 is everywhere
 152217|singularite du territoire|usr1: " Animal spirituel de l'enseignant : "
 152225|histoire de l archi contemporaine|usr1: " Animal spirituel de l'enseignant : "
+152233|sociologie|usr1: " Animal spirituel de l'enseignant : "
