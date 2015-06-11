@@ -46,3 +46,4 @@
 153113|initiation au projet d archi|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
 153119|cours de langue|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
 153124|cours d informatique|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
+153129|histoire de la ville bienvenue|usr1: Je suis ·· −−· −−− ·−· −····− ···− ·− ··· ··· ·· ·−·· ··
