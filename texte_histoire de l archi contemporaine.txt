@@ -17,7 +17,7 @@ Programme:
 
 >Exercices :
 	>Le chef vous demandra de rédiger une recette spécial pour son plat du jour.
-	>44000 signes au total donc il ne faut pas hésiter à envoyer sur les ingrédients (et attention c'est caractères compris!
+	>44000 signes au total donc il ne faut pas hésiter à envoyer sur les ingrédients (et attention c'est espaces compris!)
 
 
 
