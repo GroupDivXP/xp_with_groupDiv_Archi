@@ -1,2 +1,3 @@
 150311|droit d urbanisme|usr1: Il y a des cours de Droit en Licence aussi et cette UE est dans la continuité d'une ouverture au monde professionnel. Pour que les cours soient intelligibles il y a un minimum de pré-requis en ce qui concerne la connaissance des domaines architecturaux et urbains.
 150449|histoire de la ville bienvenue|usr1: Amélioration > Créer une partie appliquée, TD en gros, qui permet de mettre un minimum à profit ce que l'on est sensé apprendre. Sinon ça rentre par une oreille et ça ressort par l'autre !
+150507|histoire de la ville bienvenue|usr1: C'est pas un chat !
