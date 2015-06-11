@@ -42,3 +42,4 @@
 153650|singularite du territoire|usr8: les parties sont un peu désequilibrées il faudrait faire penser la balance de l'autre côté ça correspondrait mieux avec les a
 153700|singularite du territoire|usr8: avec les autres fiches
 153812|histoire de la ville bienvenue|usr8: Ajoutez les petites ornementations de texte ">" après on bloque la fiche comme ça elle est bien dans la moyenne
+153907|cours d informatique|usr8: je rajouterai jsute les petites ornementations de texte ">", sinon c'est nickel
